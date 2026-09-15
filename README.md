@@ -54,7 +54,7 @@ Undergraduate thesis system (DIPAE): an **off-grid automated poultry house** —
 
 Among the department’s best theses (2025). First prize, IHU Innovation & Entrepreneurship (Universities of Excellence, 2026).
 
-This is the first **flagship engineering case study** on this profile: a full public write-up (architecture, hardware, firmware, measurements).
+This is the first **flagship engineering case study** on this profile: a full public write-up ([architecture, hardware, firmware, measurements](https://github.com/jmp-gr/smart-chicken-coop)).
 
 ### JMP Innovations products
 
